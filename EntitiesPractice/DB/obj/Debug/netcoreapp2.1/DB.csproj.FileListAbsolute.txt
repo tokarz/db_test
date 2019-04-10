@@ -1,6 +1,0 @@
-C:\workspace\agropin\db_test\db_test\EntitiesPractice\DB\bin\Debug\netcoreapp2.1\DB.deps.json
-C:\workspace\agropin\db_test\db_test\EntitiesPractice\DB\bin\Debug\netcoreapp2.1\DB.dll
-C:\workspace\agropin\db_test\db_test\EntitiesPractice\DB\obj\Debug\netcoreapp2.1\DB.csprojAssemblyReference.cache
-C:\workspace\agropin\db_test\db_test\EntitiesPractice\DB\obj\Debug\netcoreapp2.1\DB.csproj.CoreCompileInputs.cache
-C:\workspace\agropin\db_test\db_test\EntitiesPractice\DB\obj\Debug\netcoreapp2.1\DB.AssemblyInfoInputs.cache
-C:\workspace\agropin\db_test\db_test\EntitiesPractice\DB\obj\Debug\netcoreapp2.1\DB.AssemblyInfo.cs
