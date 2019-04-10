@@ -1,0 +1,14 @@
+Minutki:
+
+1) Projekt Entity framework (github) + opcjonalnie gui webforms
+2) Zadania algorytmiczne
+3) Glupie pytania (Co nlezy do collections)
+ - https://msdn.microsoft.com/en-us/windows/z4c5tckx%28v=vs.120%29?f=255&MSPPError=-2147217396
+ 
+4) Collections w C#
+ - https://docs.microsoft.com/pl-pl/dotnet/csharp/programming-guide/concepts/collections 
+ 
+5) @Michal - o sobie po angielsku + o projektach
+6) Polimorfizm + probna rozmowa
+7) Scrum + jenkins (gitlab)
+8) praca na branchach
