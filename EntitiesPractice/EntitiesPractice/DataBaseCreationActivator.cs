@@ -9,7 +9,7 @@ namespace EntitiesPractice
     {
         public static void InitializeDb()
         {
-            var context = new UserContext();
+            var context = new EncjeContext();
             var x = context.Database.CreateIfNotExists();
         }
     }

@@ -7,9 +7,9 @@ using EntitiesPractice.Models;
 
 namespace EntitiesPractice
 {
-    public class UserContext : DbContext
+    public class EncjeContext : DbContext
     {
-        public UserContext() : base(nameOrConnectionString: "Default") { }
+        public EncjeContext() : base(nameOrConnectionString: "Default") { }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
