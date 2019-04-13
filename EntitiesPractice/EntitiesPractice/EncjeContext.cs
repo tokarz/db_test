@@ -18,5 +18,6 @@ namespace EntitiesPractice
         }
 
         public DbSet<Users> Users { get; set; }
+        public DbSet<Role> Roles { get; set; }
     }
 }
