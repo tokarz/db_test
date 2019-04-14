@@ -1,0 +1,17 @@
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\UnitTests.dll
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\UnitTests.pdb
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\obj\Debug\UnitTests.dll
+C:\workspace\agropin\db_test\db_test\EntitiesPractice\UnitTests\obj\Debug\UnitTests.pdb
